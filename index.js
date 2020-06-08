@@ -1,3 +1,3 @@
 export default {
-    PULL ne
+    PULL ne hihihi
 }
